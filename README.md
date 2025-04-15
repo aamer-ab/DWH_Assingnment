@@ -28,10 +28,7 @@ This repository contains the implementation of **Task 1** of the Data Warehouse 
    ```sql
    USE DWH2025;
    SELECT * FROM University;
-
-
-
-
+____________________________________________________________________
    Notes
 Make sure the OLE DB server name matches your local instance 
 
